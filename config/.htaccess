@@ -1,0 +1,32 @@
+# Deny access to all files in this directory
+Order deny,allow
+Deny from all
+
+# Allow access to specific file types if needed
+<Files "*.css">
+    Allow from all
+</Files>
+
+<Files "*.js">
+    Allow from all
+</Files>
+
+<Files "*.png">
+    Allow from all
+</Files>
+
+<Files "*.jpg">
+    Allow from all
+</Files>
+
+<Files "*.jpeg">
+    Allow from all
+</Files>
+
+<Files "*.gif">
+    Allow from all
+</Files>
+
+<Files "*.svg">
+    Allow from all
+</Files>
