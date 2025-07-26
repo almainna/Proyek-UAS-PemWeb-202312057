@@ -92,12 +92,12 @@
 > 📝 **Catatan:** Ganti link `#` di atas dengan URL YouTube dan hosting yang sebenarnya
 
 ### 🎬 **Video Demonstration**
-- **YouTube Link:** [https://youtu.be/7gMtDW2jmI0?si=5eK37iwq8cRk3_7x](#) 
+- **YouTube Link:** https://youtu.be/7gMtDW2jmI0?si=5eK37iwq8cRk3_7x 
 - **Duration:** ~10-15 menit
 - **Content:** Penjelasan fitur, demo penggunaan, dan code walkthrough
 
 ### 🌍 **Live Application**
-- **Hosting URL:** [https://alma.mangaverse.my.id/](#)
+- **Hosting URL:** https://alma.mangaverse.my.id/
 - **Test Accounts:** Gunakan akun demo yang tersedia
 - **Status:** ✅ Online 24/7
 
